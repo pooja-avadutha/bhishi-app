@@ -174,7 +174,7 @@ class HomeScreen extends StatelessWidget {
                   ),
                   TextButton(
                     onPressed: () {},
-                    child: const Text("View All"),
+                    child: const Text("View All Data"),
                   )
                 ],
               ),
